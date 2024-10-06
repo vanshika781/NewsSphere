@@ -1,7 +1,5 @@
 # NewsSphere
 
-![NewsSphere Logo]([path/to/logo.png](https://github.com/vanshika781/NewsSphere/blob/master/public/logo192.png))
-
 Welcome to **NewsSphere** – your one-stop destination for the latest news updates across various categories! 
 
 ## Table of Contents
