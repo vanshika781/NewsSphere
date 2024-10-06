@@ -8,8 +8,6 @@ Welcome to **NewsSphere** – your one-stop destination for the latest news upda
 - [Usage](#usage)
 - [API Key](#api-key)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
